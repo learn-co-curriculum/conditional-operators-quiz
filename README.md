@@ -93,6 +93,6 @@ puts "Hi, #{name}" unless name == "Steven"
 ?: If you are unsure whether to use the ternary operator, or the if statement, which should you use?
 
 (X) `if` statement
-(X) ternary statement
+() ternary statement
 
 ???
