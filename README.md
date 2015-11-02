@@ -1,4 +1,5 @@
 #Condition Operators Quiz
+
 ## Objectives
 
 1. Test your understanding of the ternary operator
@@ -13,7 +14,6 @@
 ?: Which of the following `if` statements is a good candidate for using a ternary operator instead?
 
 (X)
-
 ```ruby
 if condition_a
   something
@@ -22,7 +22,6 @@ else
 end
 ```
 ( )
-
 ```ruby
 if condition_a
   something
@@ -36,25 +35,18 @@ end
 ?: Let's convert the correct answer above using a ternary operator. Which of the following is the correct way to do that?
 
 ( )
-
 ```ruby
 condition_a ? something : condition_b
 ```
-
 ( )
-
 ```ruby
 condition_a ? something : (conditional_b ?something_else : something_even_more_different)
 ```
-
 (X)
-
 ```ruby
 condition_a ? something : something_else
 ```
-
 ( )
-
 ```ruby
 condition_a ? something_else : something
 ```
